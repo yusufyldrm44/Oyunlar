@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\Adam Asmacaa\Adam Asmacaa\bin\Debug\Adam Asmacaa.exe.config
+C:\Users\yusuf\source\repos\Adam Asmacaa\Adam Asmacaa\bin\Debug\Adam Asmacaa.exe
+C:\Users\yusuf\source\repos\Adam Asmacaa\Adam Asmacaa\bin\Debug\Adam Asmacaa.pdb
+C:\Users\yusuf\source\repos\Adam Asmacaa\Adam Asmacaa\obj\Debug\Adam Asmacaa.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Adam Asmacaa\Adam Asmacaa\obj\Debug\Adam_Asmacaa.Form1.resources
+C:\Users\yusuf\source\repos\Adam Asmacaa\Adam Asmacaa\obj\Debug\Adam_Asmacaa.Properties.Resources.resources
+C:\Users\yusuf\source\repos\Adam Asmacaa\Adam Asmacaa\obj\Debug\Adam Asmacaa.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\Adam Asmacaa\Adam Asmacaa\obj\Debug\Adam Asmacaa.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Adam Asmacaa\Adam Asmacaa\obj\Debug\Adam Asmacaa.exe
+C:\Users\yusuf\source\repos\Adam Asmacaa\Adam Asmacaa\obj\Debug\Adam Asmacaa.pdb
