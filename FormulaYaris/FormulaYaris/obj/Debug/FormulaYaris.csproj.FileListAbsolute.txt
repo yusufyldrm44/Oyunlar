@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\FormulaYaris\FormulaYaris\bin\Debug\FormulaYaris.exe.config
+C:\Users\yusuf\source\repos\FormulaYaris\FormulaYaris\bin\Debug\FormulaYaris.exe
+C:\Users\yusuf\source\repos\FormulaYaris\FormulaYaris\bin\Debug\FormulaYaris.pdb
+C:\Users\yusuf\source\repos\FormulaYaris\FormulaYaris\obj\Debug\FormulaYaris.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\FormulaYaris\FormulaYaris\obj\Debug\FormulaYaris.Form1.resources
+C:\Users\yusuf\source\repos\FormulaYaris\FormulaYaris\obj\Debug\FormulaYaris.Properties.Resources.resources
+C:\Users\yusuf\source\repos\FormulaYaris\FormulaYaris\obj\Debug\FormulaYaris.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\FormulaYaris\FormulaYaris\obj\Debug\FormulaYaris.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\FormulaYaris\FormulaYaris\obj\Debug\FormulaYaris.exe
+C:\Users\yusuf\source\repos\FormulaYaris\FormulaYaris\obj\Debug\FormulaYaris.pdb
